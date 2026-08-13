@@ -1,0 +1,6 @@
+.env
+evaluation/
+__pycache__/
+*.pyc
+*.pdf
+admin_upload_laws.py
